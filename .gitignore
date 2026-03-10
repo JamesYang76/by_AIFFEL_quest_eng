@@ -1,0 +1,8 @@
+NLP/NLP02/transformer/data/ko.tsv
+NLP/NLP02/transformer/wiki.ko.vec
+NLP/NLP03/enc_tokens.memmap
+NLP/NLP03/labels_mlm.memmap
+NLP/NLP03/segments.memmap
+NLP/NLP03/project/enc_tokens.memmap
+NLP/NLP03/project/labels_mlm.memmap
+NLP/NLP03/project/segments.memmap
